@@ -1,7 +1,7 @@
 {
   "version": "2.1.3",
   "name": "@matibat/cordova-plugin-fcm-with-translations",
-  "cordova_name": "Cordova FCM Push Plugin",
+  "cordova_name": "Cordova FCM push plugin with translations",
   "description": "Google Firebase Cloud Messaging Cordova Push Plugin",
   "license": "MIT",
   "repo": "",
@@ -9,7 +9,7 @@
   "author": "Felipe Echanique Torres <felipe.echanique@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fechanique/cordova-plugin-fcm.git"
+    "url": "git+https://github.com/mnbb/cordova-plugin-fcm-with-translations.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -30,9 +30,9 @@
   "engines": [],
   "englishdoc": "",
   "bugs": {
-    "url": "https://github.com/fechanique/cordova-plugin-fcm/issues"
+    "url": "https://github.com/mnbb/cordova-plugin-fcm-with-translations/issues"
   },
-  "homepage": "https://github.com/fechanique/cordova-plugin-fcm#readme",
+  "homepage": "https://github.com/mnbb/cordova-plugin-fcm-with-translations",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
