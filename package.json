@@ -1,18 +1,15 @@
 {
   "version": "2.1.2",
-  "name": "cordova-plugin-fcm",
+  "name": "@matibat/cordova-plugin-fcm-with-translations",
   "cordova_name": "Cordova FCM Push Plugin",
   "description": "Google Firebase Cloud Messaging Cordova Push Plugin",
   "license": "MIT",
   "repo": "",
   "issue": "",
-  "author": {
-    "name": "Felipe Echanique Torres",
-    "email": "felipe.echanique@gmail.com"
-  },
+  "author": "Felipe Echanique Torres <felipe.echanique@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fechanique/cordova-plugin-fcm"
+    "url": "git+https://github.com/fechanique/cordova-plugin-fcm.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -31,5 +28,15 @@
     "ios"
   ],
   "engines": [],
-  "englishdoc": ""
+  "englishdoc": "",
+  "bugs": {
+    "url": "https://github.com/fechanique/cordova-plugin-fcm/issues"
+  },
+  "homepage": "https://github.com/fechanique/cordova-plugin-fcm#readme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
