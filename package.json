@@ -1,5 +1,5 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "name": "@matibat/cordova-plugin-fcm-with-translations",
   "cordova_name": "Cordova FCM push plugin with translations",
   "description": "Google Firebase Cloud Messaging Cordova Push Plugin",
