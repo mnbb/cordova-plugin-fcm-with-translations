@@ -97,6 +97,12 @@ public class FCMPlugin extends CordovaPlugin {
 					}
 				});
 			}
+			else if (action.equals("setLanguage")) {
+				ByLangNotification.setLanguage(args.getString(0));
+			}
+			else if (action.equals("fireNotification")) {
+				ByLangNotification.fireNotification(args.getString(0));
+			}
 			else{
 				callbackContext.error("Method not found");
 				return false;
